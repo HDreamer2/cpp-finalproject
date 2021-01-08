@@ -146,6 +146,7 @@
   <ItemGroup>
     <Image Include="E:\cpp\code\SimpleCNNbyCPP-main\samples\bg.jpg" />
     <Image Include="E:\cpp\code\SimpleCNNbyCPP-main\samples\face.jpg" />
+    <Image Include="halfface.jpg" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="cv.h" />

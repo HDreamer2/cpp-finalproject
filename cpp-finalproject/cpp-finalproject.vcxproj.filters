@@ -24,10 +24,13 @@
   </ItemGroup>
   <ItemGroup>
     <Image Include="E:\cpp\code\SimpleCNNbyCPP-main\samples\bg.jpg">
-      <Filter>资源文件</Filter>
+      <Filter>源文件</Filter>
     </Image>
     <Image Include="E:\cpp\code\SimpleCNNbyCPP-main\samples\face.jpg">
-      <Filter>资源文件</Filter>
+      <Filter>源文件</Filter>
+    </Image>
+    <Image Include="halfface.jpg">
+      <Filter>源文件</Filter>
     </Image>
   </ItemGroup>
   <ItemGroup>
