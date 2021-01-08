@@ -119,7 +119,7 @@ float*  BGRtoRGB(Mat image,float* in)
 			in[pos] = (float)p2[j][2] / 255.f;
 			in[pos + 128*128] = (float)p2[j][1] / 255.f;
 			in[pos + 2*128*128] = (float)p2[j][0] / 255.f;
-			//std::cout << "\n r g b" << in[pos] << in[pos + 128*128] << in[pos + 2*128*128];
+			//std::cout << in[pos] << std::endl;
 			pos++;
 		}
 	}
